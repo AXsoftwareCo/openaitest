@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Botella de Agua EcoAmigable",
+        "descripcion": "Una botella de agua reutilizable hecha de materiales reciclados.",
+        "precio": 19.99,
+        "stock": 50,
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 2,
+        "nombre": "Auriculares Bluetooth Pro",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido y larga duración de batería.",
+        "precio": 89.99,
+        "stock": 20,
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 3,
+        "nombre": "Smartphone X200",
+        "descripcion": "Último modelo de smartphone con cámara avanzada y almacenamiento ampliable.",
+        "precio": 699.99,
+        "stock": 15,
+        "categoria": "Electrónica"
+    },
+    {
+        "id": 4,
+        "nombre": "Laptop UltraLight",
+        "descripcion": "Laptop delgada y ligera con alto rendimiento para uso profesional.",
+        "precio": 1199.99,
+        "stock": 10,
+        "categoria": "Computadoras"
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj Inteligente FitTrack",
+        "descripcion": "Reloj inteligente con monitor de salud y notificaciones en tiempo real.",
+        "precio": 149.99,
+        "stock": 30,
+        "categoria": "Accesorios"
+    }
+]
